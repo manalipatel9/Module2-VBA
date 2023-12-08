@@ -1,4 +1,4 @@
-Sub Module2()
+Sub mod2()
     Dim totVol As Double
     Dim curSymbol As String
     Dim openYear As Double
